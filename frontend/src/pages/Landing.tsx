@@ -35,9 +35,15 @@ export default function Landing() {
             Protect My Digital Life
           </Link>
 
+                  <a
+          href="https://youtu.be/-pKjUNppt-s"
+          target="_blank"
+          rel="noopener noreferrer"
+        >
           <button className="rounded-lg border border-zinc-700 px-6 py-3 transition hover:border-zinc-500">
             Watch Demo
           </button>
+        </a>
           </div>
             <div className="mt-20 w-full max-w-6xl">
         <div className="relative overflow-hidden rounded-3xl border border-zinc-800 bg-zinc-950 p-8 shadow-[0_0_100px_rgba(139,92,246,0.15)]">

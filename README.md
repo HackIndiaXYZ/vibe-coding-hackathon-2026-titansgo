@@ -292,7 +292,7 @@ By transforming complex scam detection into clear, understandable guidance, the 
 
 ## 🎥 Demo Video
 
-Coming Soon
+[Demo Video](https://youtu.be/-pKjUNppt-s)
 
 ---
 
