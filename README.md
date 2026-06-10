@@ -286,7 +286,7 @@ By transforming complex scam detection into clear, understandable guidance, the 
 
 ## 🌐 Live
 
-[Deployment link](https://scam-shield-ai-gray.vercel.app/)
+[Deployment link](https://knowscam-ai.vercel.app/)
 
 ---
 
